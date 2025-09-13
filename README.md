@@ -1,4 +1,4 @@
-# Transcription Factor Binding Predictor Task
+# Transcription Factor Binding Predictor 
 
 The model in this notebook is inspired by the following work:
 - "A Primer on Deep Learning in Genomics" (*Nature Genetics, 2018*) by James Zou, Mikael Huss, Abubakar Abid, Pejman Mohammadi, Ali Torkamani & Amalio Telentil. [Link](https://www.nature.com/articles/s41588-018-0295-5).
